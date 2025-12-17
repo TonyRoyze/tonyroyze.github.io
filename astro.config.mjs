@@ -23,6 +23,5 @@ export default defineConfig({
     }
   },
   // Required for GitHub Pages project sites (served at /astro-cv-esquelete)
-  site: 'https://viduragunawardana.github.io/astro-cv-esquelete',
-  base: '/astro-cv-esquelete'
+  site: 'https://tony.github.io'
 });

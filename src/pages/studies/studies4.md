@@ -1,0 +1,10 @@
+---
+title: Diploma in Information and Communication Technology
+location: Esoft Metropolitan Campus
+url: https://esoft.lk
+institute: Esoft Metropolitan Campus
+date: 2019
+tags: ["ICT", "Information Technology", "Computer Science", "Programming", "Networking"]
+---
+
+Gained a foundational understanding of the computing landscape, including core principles of information technology, software development, and network infrastructure. This program served as my initial entry into the field of computer science and technical problem-solving.

@@ -10,7 +10,7 @@ const studies = await Astro.glob("../pages/studies/*.md");
 const certificates = await Astro.glob("../pages/certificates/*.md");
 // const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
-const PDF = "/cv-20240219.pdf";
+const PDF = "/ViduraGunawardana.pdf";
 ---
 
 <div class="join join-vertical gap-1">
@@ -46,6 +46,7 @@ const PDF = "/cv-20240219.pdf";
             title={item.frontmatter.title}
             timeframe={item.frontmatter.date}
             location={item.frontmatter.location}
+            description={item.compiledContent()}
             tags={item.frontmatter.tags}
             url={item.url}
             url_name={item.frontmatter.institute}

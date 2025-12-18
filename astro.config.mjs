@@ -22,6 +22,5 @@ export default defineConfig({
       entrypoint: 'astro/assets/services/noop',
     }
   },
-  // Required for GitHub Pages project sites (served at /astro-cv-esquelete)
-  site: 'https://tony.github.io'
+  site: 'https://tonyroyze.github.io/',
 });

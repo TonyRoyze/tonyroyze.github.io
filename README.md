@@ -53,9 +53,9 @@ A responsive website created for an antique gallery, showcasing various antique 
 
 ## Achievements & Certificates
 
-- **University Colors for Swimming** (2024) - Recognized outstanding performance and dedication to swimming at the university level
-- Music Certificate (2022)
-- Choir Certificate (2015)
+- **University Colors for Swimming** (2024)
+- 8th Global High Performers Concert (2022)
+- 4th Asia Pacific Choir Games (2015)
 
 ## Contact
 

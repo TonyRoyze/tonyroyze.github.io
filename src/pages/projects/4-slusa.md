@@ -1,5 +1,5 @@
 ---
-title: SLUSA Web Portal (Contributor)
+title: SLUSA Web Portal (Prototype)
 url: https://test-deploy-slusa.pages.dev/
 tags: ["UI/UX", "Frontend", "Performance", "Astro"]
 date: 2024

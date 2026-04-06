@@ -1,6 +1,6 @@
 ---
 title: about
-name: "Vidura (Tony) Gunawardana"
+name: "Vidura (Tony Royze) Gunawardana"
 designation: "Data Scientist / Software Engineer"
 location: 192/8 School Ln, Ganemulla Rd. Kadawatha
 pronouns: "he/him"

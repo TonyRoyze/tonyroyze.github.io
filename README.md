@@ -1,5 +1,7 @@
 # Vidura (Tony) Gunawardana - Portfolio
 
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)](https://astro.build) [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)](https://daisyui.com) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/TonyRoyze/portfolio)
+
 Welcome to my portfolio website! I'm a Software Engineer passionate about creating impactful digital solutions and constantly exploring new technologies.
 
 ## About Me
@@ -10,7 +12,7 @@ As a developer, I enjoy turning ideas into impactful digital solutions, constant
 
 ## Technical Skills
 
-**Programming Languages:** C, C++, C#, Python, Rust  
+**Programming Languages:** C, C++, C#, Python, R, Rust, Go,   
 **Web Technologies:** HTML5, CSS, Tailwind CSS, JavaScript, TypeScript  
 **Frameworks & Tools:** Astro, React, Angular, Solid, Tauri  
 
